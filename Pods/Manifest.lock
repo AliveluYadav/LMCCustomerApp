@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.8.1)
+  - IQKeyboardManager (6.2.0)
+  - SwiftyJSON (4.2.0)
+  - TextFieldEffects (1.5.1)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - SwiftyJSON
+  - TextFieldEffects
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManager
+    - SwiftyJSON
+    - TextFieldEffects
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 082259e2f7c58ca73f940a891be0ade68fdaa8ef
+
+COCOAPODS: 1.5.3
